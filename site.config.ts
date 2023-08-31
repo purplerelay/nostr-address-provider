@@ -1,12 +1,12 @@
 export default {
   // your domain name
-  host: "PledID.com",
+  host: "PlebID.com",
 
   // set to true to disable registration site-wide
   registrationDisabled: false,
 
   // site slogan
-  slogan: "Free nostr addresses with PledID.",
+  slogan: "Free nostr addresses with PlebID.",
 
   // your donation LNURL
   donationLNUrl:
